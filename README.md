@@ -1,8 +1,10 @@
 <h1>Hi! I'm Anjali Kumari</h1>
 💫 About Me:
+
 👋 Hey! I’m Anjali — someone who’s equally into solving problems and asking “but why though?”
 I enjoy working across the stack, building things that make sense (and actually work). Whether it’s writing clean logic, figuring out why something’s broken, or diving into new tech just for fun — I’m here for all of it.
 I believe good code is thoughtful, not just functional — and great projects come from a mix of curiosity, learning, and a bit of stubbornness.
+
 🔭 I’m currently working on<br>Innovative web/app projects and interning at CID, focusing on real-world tech solutions<br><br>🤝 I’m looking to collaborate on<br>Healthtech, edtech, and AI-driven tools with creative front-end experiences<br><br>💬 I’m looking for help with<br>API integration, backend optimization, and deploying full-stack apps<br><br>🌱 I’m currently learning<br>Machine Learning, React.js, and advanced UI/UX design with Figma & Tailwind<br><br>💡 Ask me about<br>Hackathons, UI creativity, app development, and tech-infused chess projects<br><br>⚡ Fun fact<br>I co-lead “Checkmates,” a 3D AI-themed chess club blending tech and strategy<br><br>
 
 
