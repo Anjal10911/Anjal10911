@@ -1,7 +1,7 @@
 <h1>Hi! I'm Anjali Kumari</h1>
 💫 About Me:
 
-👋 Hey! I’m Anjali — someone who’s equally into solving problems and asking “but why though?”
+👋 Hey! I’m Anjali, someone who’s equally into solving problems and asking “but why though?”
 I enjoy working across the stack, building things that make sense (and actually work). Whether it’s writing clean logic, figuring out why something’s broken, or diving into new tech just for fun — I’m here for all of it.
 I believe good code is thoughtful, not just functional — and great projects come from a mix of curiosity, learning, and a bit of stubbornness.
 
